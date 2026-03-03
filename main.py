@@ -27,7 +27,7 @@ st.markdown(
 st.divider()
 
 from pathlib import Path
-DATA_PATH = Path(_file_).parent / "stress_studierende_dashboard.csv"
+DATA_PATH = Path(__file__).parent / "stress_studierende_dashboard.csv"
 df = pd.read_csv(DATA_PATH)
 
 # (optional) Debug – kannst du später löschen

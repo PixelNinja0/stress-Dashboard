@@ -1,0 +1,801 @@
+Studiengang,Semester,Stressfaktor,Semesterphase,Schlafstunden,Stresslevel,Stressgruppe,Leistung,Coping_Kurzzeit,Coping_Langzeit
+Maschinenbau,4,Finanzen,spät,9.0,4,mittel (4–6),8.8,Snacks,Schlaf/Regeneration
+BWL,8,Finanzen,mitte,7.8,4,mittel (4–6),8.7,Social Media,Sport
+Medizin,9,Leistungsdruck,spät,5.5,10,sehr hoch (9–10),2.8,Rauchen,Schlaf/Regeneration
+Maschinenbau,4,Finanzen,mitte,7.4,5,mittel (4–6),10.0,Gaming,Schlaf/Regeneration
+Informatik,2,Prüfungen,früh,6.1,7,hoch (7–8),7.6,Social Media,Freunde
+Medizin,9,Prüfungen,spät,4.7,10,sehr hoch (9–10),3.7,Gaming,Schlaf/Regeneration
+Maschinenbau,2,Finanzen,mitte,7.8,5,mittel (4–6),9.7,Rauchen,Sport
+Maschinenbau,6,Zeitdruck,früh,7.7,3,niedrig (1–3),7.8,Rauchen,Schlaf/Regeneration
+Informatik,3,Prüfungen,früh,7.7,6,mittel (4–6),8.3,Prokrastination,Sport
+Psychologie,2,Zeitdruck,mitte,6.6,7,hoch (7–8),6.2,Rauchen,Freunde
+BWL,8,Leistungsdruck,früh,6.4,6,mittel (4–6),9.0,Rauchen,Sport
+Medizin,2,Leistungsdruck,früh,7.4,7,hoch (7–8),7.9,Snacks,Sport
+Maschinenbau,7,Finanzen,früh,6.9,5,mittel (4–6),9.9,Snacks,Sport
+Maschinenbau,7,Zeitdruck,mitte,6.2,6,mittel (4–6),8.1,Prokrastination,Freunde
+Psychologie,1,Prüfungen,mitte,5.6,10,sehr hoch (9–10),4.1,Rauchen,Planung
+BWL,2,Zeitdruck,mitte,7.0,4,mittel (4–6),7.9,Snacks,Planung
+Psychologie,8,Prüfungen,früh,7.6,6,mittel (4–6),8.2,Snacks,Schlaf/Regeneration
+Informatik,6,Finanzen,früh,5.5,6,mittel (4–6),8.3,Social Media,Sport
+Maschinenbau,2,Finanzen,mitte,7.5,5,mittel (4–6),10.0,Snacks,Freunde
+Psychologie,10,Prüfungen,mitte,6.8,9,sehr hoch (9–10),5.0,Rauchen,Sport
+Maschinenbau,3,Prüfungen,mitte,7.5,6,mittel (4–6),8.5,Gaming,Sport
+BWL,1,Prüfungen,früh,7.8,5,mittel (4–6),10.0,Rauchen,Planung
+Medizin,10,Leistungsdruck,früh,5.6,10,sehr hoch (9–10),4.2,Prokrastination,Sport
+Medizin,1,Finanzen,früh,5.3,10,sehr hoch (9–10),4.2,Social Media,Sport
+Maschinenbau,6,Prüfungen,mitte,6.2,5,mittel (4–6),9.8,Social Media,Freunde
+Informatik,10,Leistungsdruck,mitte,7.2,8,hoch (7–8),6.0,Rauchen,Schlaf/Regeneration
+Psychologie,6,Zeitdruck,spät,6.3,7,hoch (7–8),6.3,Snacks,Sport
+Informatik,6,Zeitdruck,mitte,6.0,8,hoch (7–8),7.0,Gaming,Schlaf/Regeneration
+Informatik,4,Job,mitte,5.1,8,hoch (7–8),6.7,Prokrastination,Meditation
+Maschinenbau,2,Prüfungen,mitte,8.5,4,mittel (4–6),8.7,Gaming,Sport
+Maschinenbau,6,Prüfungen,früh,7.4,5,mittel (4–6),9.9,Prokrastination,Sport
+Medizin,9,Finanzen,mitte,7.0,9,sehr hoch (9–10),5.6,Rauchen,Planung
+BWL,1,Prüfungen,früh,7.9,6,mittel (4–6),7.9,Snacks,Planung
+BWL,9,Finanzen,mitte,7.0,8,hoch (7–8),6.0,Rauchen,Freunde
+Psychologie,5,Prüfungen,früh,6.6,5,mittel (4–6),9.3,Snacks,Schlaf/Regeneration
+Informatik,6,Prüfungen,spät,6.5,6,mittel (4–6),9.9,Rauchen,Sport
+Informatik,2,Prüfungen,spät,6.5,7,hoch (7–8),8.1,Gaming,Planung
+Psychologie,7,Zeitdruck,früh,9.0,1,niedrig (1–3),3.9,Social Media,Planung
+BWL,2,Prüfungen,mitte,7.4,6,mittel (4–6),7.9,Social Media,Sport
+Maschinenbau,3,Prüfungen,spät,6.4,7,hoch (7–8),7.5,Snacks,Planung
+BWL,8,Leistungsdruck,früh,7.0,6,mittel (4–6),8.5,Snacks,Sport
+Maschinenbau,1,Zeitdruck,spät,6.0,7,hoch (7–8),6.8,Snacks,Freunde
+Maschinenbau,5,Zeitdruck,mitte,8.1,4,mittel (4–6),10.0,Gaming,Freunde
+BWL,6,Prüfungen,spät,6.1,9,sehr hoch (9–10),5.4,Social Media,Schlaf/Regeneration
+Maschinenbau,2,Zeitdruck,spät,7.3,6,mittel (4–6),9.1,Snacks,Freunde
+Maschinenbau,3,Prüfungen,früh,7.8,4,mittel (4–6),8.4,Rauchen,Freunde
+BWL,4,Finanzen,mitte,7.2,5,mittel (4–6),10.0,Gaming,Sport
+BWL,7,Prüfungen,mitte,6.7,8,hoch (7–8),6.2,Social Media,Schlaf/Regeneration
+Maschinenbau,10,Leistungsdruck,früh,6.4,8,hoch (7–8),6.2,Gaming,Planung
+Informatik,9,Job,früh,6.4,8,hoch (7–8),6.8,Prokrastination,Sport
+Informatik,2,Prüfungen,spät,6.3,7,hoch (7–8),6.6,Gaming,Schlaf/Regeneration
+Informatik,1,Prüfungen,früh,6.5,7,hoch (7–8),8.6,Gaming,Sport
+Maschinenbau,1,Prüfungen,mitte,8.3,6,mittel (4–6),8.9,Snacks,Freunde
+Maschinenbau,6,Finanzen,spät,6.6,7,hoch (7–8),8.4,Gaming,Schlaf/Regeneration
+Maschinenbau,2,Prüfungen,früh,6.2,9,sehr hoch (9–10),4.6,Prokrastination,Meditation
+Maschinenbau,3,Leistungsdruck,mitte,6.4,7,hoch (7–8),7.0,Social Media,Schlaf/Regeneration
+Psychologie,9,Leistungsdruck,spät,7.6,7,hoch (7–8),6.9,Rauchen,Sport
+Psychologie,9,Leistungsdruck,mitte,7.2,9,sehr hoch (9–10),5.4,Prokrastination,Freunde
+Informatik,9,Zeitdruck,früh,6.9,7,hoch (7–8),7.6,Gaming,Sport
+Informatik,3,Job,früh,6.5,4,mittel (4–6),8.5,Social Media,Sport
+Maschinenbau,7,Prüfungen,spät,7.1,5,mittel (4–6),9.4,Snacks,Schlaf/Regeneration
+Psychologie,7,Zeitdruck,früh,6.1,7,hoch (7–8),6.8,Rauchen,Meditation
+Psychologie,2,Zeitdruck,mitte,6.8,7,hoch (7–8),7.6,Social Media,Schlaf/Regeneration
+Maschinenbau,6,Job,früh,7.5,6,mittel (4–6),8.5,Social Media,Sport
+Psychologie,6,Finanzen,mitte,7.5,3,niedrig (1–3),7.2,Social Media,Schlaf/Regeneration
+Psychologie,4,Leistungsdruck,spät,6.0,8,hoch (7–8),7.3,Prokrastination,Sport
+Psychologie,8,Prüfungen,mitte,5.9,8,hoch (7–8),6.4,Rauchen,Sport
+BWL,7,Job,spät,6.7,7,hoch (7–8),8.4,Prokrastination,Planung
+Informatik,6,Zeitdruck,früh,8.2,1,niedrig (1–3),4.9,Gaming,Sport
+BWL,8,Zeitdruck,mitte,4.9,10,sehr hoch (9–10),4.1,Rauchen,Schlaf/Regeneration
+Informatik,8,Job,spät,6.7,8,hoch (7–8),6.4,Rauchen,Planung
+BWL,6,Zeitdruck,mitte,5.5,7,hoch (7–8),6.6,Gaming,Meditation
+Medizin,3,Zeitdruck,früh,6.1,7,hoch (7–8),8.5,Social Media,Sport
+BWL,8,Finanzen,spät,6.3,7,hoch (7–8),7.5,Gaming,Schlaf/Regeneration
+Informatik,8,Prüfungen,mitte,6.1,8,hoch (7–8),6.8,Rauchen,Sport
+BWL,10,Zeitdruck,mitte,6.0,9,sehr hoch (9–10),4.7,Snacks,Freunde
+BWL,2,Prüfungen,spät,6.9,5,mittel (4–6),9.9,Snacks,Sport
+Maschinenbau,5,Prüfungen,früh,6.2,7,hoch (7–8),7.1,Snacks,Sport
+Psychologie,10,Leistungsdruck,früh,5.2,10,sehr hoch (9–10),4.7,Gaming,Schlaf/Regeneration
+Maschinenbau,6,Finanzen,früh,7.4,3,niedrig (1–3),7.8,Gaming,Sport
+Maschinenbau,10,Zeitdruck,mitte,7.1,9,sehr hoch (9–10),5.4,Social Media,Sport
+BWL,1,Zeitdruck,früh,7.8,5,mittel (4–6),10.0,Rauchen,Sport
+Maschinenbau,1,Zeitdruck,mitte,5.6,9,sehr hoch (9–10),5.9,Prokrastination,Planung
+Informatik,8,Finanzen,früh,6.7,6,mittel (4–6),9.3,Gaming,Planung
+Informatik,4,Job,mitte,7.3,3,niedrig (1–3),6.7,Social Media,Planung
+Informatik,6,Job,früh,5.7,7,hoch (7–8),7.2,Snacks,Meditation
+Maschinenbau,5,Zeitdruck,mitte,6.7,5,mittel (4–6),9.4,Snacks,Schlaf/Regeneration
+Psychologie,5,Zeitdruck,früh,6.7,6,mittel (4–6),9.2,Snacks,Freunde
+Informatik,10,Zeitdruck,spät,8.0,8,hoch (7–8),6.5,Social Media,Meditation
+Psychologie,1,Finanzen,mitte,8.8,3,niedrig (1–3),6.8,Rauchen,Freunde
+Informatik,8,Zeitdruck,mitte,5.0,10,sehr hoch (9–10),3.9,Rauchen,Meditation
+Maschinenbau,9,Finanzen,spät,8.7,6,mittel (4–6),7.9,Snacks,Schlaf/Regeneration
+Psychologie,7,Finanzen,mitte,5.9,7,hoch (7–8),7.6,Snacks,Schlaf/Regeneration
+BWL,4,Zeitdruck,früh,7.7,4,mittel (4–6),7.8,Rauchen,Schlaf/Regeneration
+BWL,2,Zeitdruck,spät,7.8,5,mittel (4–6),10.0,Rauchen,Sport
+Psychologie,7,Zeitdruck,früh,5.8,6,mittel (4–6),9.0,Snacks,Schlaf/Regeneration
+BWL,5,Prüfungen,früh,7.2,4,mittel (4–6),9.9,Prokrastination,Sport
+Informatik,2,Prüfungen,mitte,6.7,6,mittel (4–6),9.3,Gaming,Sport
+Informatik,4,Leistungsdruck,früh,7.2,4,mittel (4–6),8.5,Snacks,Freunde
+Medizin,10,Zeitdruck,früh,6.4,10,sehr hoch (9–10),4.5,Prokrastination,Meditation
+Medizin,3,Prüfungen,spät,7.7,6,mittel (4–6),8.0,Social Media,Planung
+Maschinenbau,2,Finanzen,früh,7.0,4,mittel (4–6),8.2,Social Media,Schlaf/Regeneration
+BWL,7,Leistungsdruck,spät,6.5,5,mittel (4–6),10.0,Rauchen,Planung
+Medizin,2,Prüfungen,spät,7.7,9,sehr hoch (9–10),3.9,Rauchen,Freunde
+Maschinenbau,10,Leistungsdruck,mitte,6.9,9,sehr hoch (9–10),5.2,Rauchen,Planung
+Maschinenbau,9,Job,spät,7.1,7,hoch (7–8),7.0,Prokrastination,Planung
+Psychologie,10,Finanzen,spät,5.9,10,sehr hoch (9–10),4.1,Rauchen,Schlaf/Regeneration
+BWL,10,Finanzen,spät,5.5,10,sehr hoch (9–10),3.4,Rauchen,Schlaf/Regeneration
+Informatik,3,Prüfungen,früh,6.3,7,hoch (7–8),7.9,Gaming,Meditation
+Medizin,3,Job,früh,6.1,6,mittel (4–6),8.8,Social Media,Freunde
+Psychologie,4,Zeitdruck,mitte,7.6,5,mittel (4–6),10.0,Rauchen,Schlaf/Regeneration
+Informatik,5,Job,mitte,7.5,4,mittel (4–6),8.8,Social Media,Schlaf/Regeneration
+BWL,9,Finanzen,früh,6.4,9,sehr hoch (9–10),4.7,Prokrastination,Schlaf/Regeneration
+Psychologie,8,Prüfungen,mitte,7.9,6,mittel (4–6),8.7,Snacks,Schlaf/Regeneration
+Informatik,7,Prüfungen,früh,7.8,6,mittel (4–6),8.0,Snacks,Freunde
+Medizin,9,Finanzen,spät,6.5,10,sehr hoch (9–10),4.2,Gaming,Meditation
+Maschinenbau,7,Finanzen,früh,5.9,7,hoch (7–8),8.0,Snacks,Schlaf/Regeneration
+Maschinenbau,4,Prüfungen,früh,8.2,4,mittel (4–6),10.0,Social Media,Schlaf/Regeneration
+BWL,5,Leistungsdruck,früh,6.7,4,mittel (4–6),8.4,Snacks,Schlaf/Regeneration
+Psychologie,6,Leistungsdruck,früh,6.9,6,mittel (4–6),8.6,Social Media,Sport
+Psychologie,1,Zeitdruck,früh,6.7,6,mittel (4–6),8.5,Snacks,Planung
+Maschinenbau,8,Zeitdruck,früh,5.7,8,hoch (7–8),6.5,Rauchen,Freunde
+Informatik,7,Prüfungen,früh,5.2,9,sehr hoch (9–10),5.4,Social Media,Planung
+BWL,8,Leistungsdruck,früh,7.1,6,mittel (4–6),8.8,Gaming,Sport
+Informatik,6,Zeitdruck,mitte,5.9,6,mittel (4–6),9.5,Snacks,Meditation
+Psychologie,8,Leistungsdruck,mitte,9.0,4,mittel (4–6),8.4,Social Media,Meditation
+BWL,10,Zeitdruck,früh,5.5,10,sehr hoch (9–10),4.6,Social Media,Sport
+Informatik,6,Finanzen,früh,5.5,5,mittel (4–6),10.0,Prokrastination,Planung
+Informatik,5,Prüfungen,früh,7.1,5,mittel (4–6),10.0,Rauchen,Planung
+Psychologie,2,Prüfungen,früh,8.4,3,niedrig (1–3),7.4,Prokrastination,Freunde
+Informatik,8,Leistungsdruck,früh,6.5,5,mittel (4–6),10.0,Prokrastination,Sport
+Medizin,10,Zeitdruck,spät,6.7,10,sehr hoch (9–10),3.5,Rauchen,Sport
+Psychologie,7,Zeitdruck,spät,5.0,9,sehr hoch (9–10),5.4,Prokrastination,Schlaf/Regeneration
+BWL,9,Job,spät,5.9,9,sehr hoch (9–10),4.7,Prokrastination,Sport
+Psychologie,9,Job,mitte,5.6,9,sehr hoch (9–10),6.3,Prokrastination,Schlaf/Regeneration
+Informatik,8,Leistungsdruck,mitte,4.8,9,sehr hoch (9–10),5.7,Gaming,Meditation
+Medizin,6,Prüfungen,früh,6.6,5,mittel (4–6),9.6,Gaming,Sport
+Psychologie,1,Finanzen,spät,5.0,10,sehr hoch (9–10),4.3,Snacks,Schlaf/Regeneration
+Maschinenbau,1,Leistungsdruck,spät,5.8,8,hoch (7–8),6.6,Social Media,Freunde
+Informatik,3,Zeitdruck,spät,6.3,7,hoch (7–8),7.3,Snacks,Planung
+Psychologie,5,Prüfungen,spät,6.1,6,mittel (4–6),9.3,Social Media,Schlaf/Regeneration
+Psychologie,8,Leistungsdruck,mitte,7.0,6,mittel (4–6),9.0,Prokrastination,Planung
+Medizin,5,Zeitdruck,spät,6.8,6,mittel (4–6),8.9,Social Media,Sport
+Psychologie,1,Finanzen,spät,7.9,6,mittel (4–6),8.8,Snacks,Sport
+Psychologie,3,Job,früh,7.6,3,niedrig (1–3),7.9,Snacks,Planung
+BWL,10,Finanzen,spät,7.5,8,hoch (7–8),6.5,Gaming,Schlaf/Regeneration
+BWL,10,Zeitdruck,früh,6.5,8,hoch (7–8),6.4,Social Media,Schlaf/Regeneration
+Psychologie,4,Zeitdruck,spät,7.1,5,mittel (4–6),9.6,Gaming,Sport
+BWL,9,Zeitdruck,spät,7.0,7,hoch (7–8),8.6,Snacks,Freunde
+Informatik,8,Prüfungen,früh,6.6,7,hoch (7–8),7.0,Gaming,Sport
+Maschinenbau,10,Leistungsdruck,mitte,6.1,10,sehr hoch (9–10),4.3,Rauchen,Meditation
+Medizin,9,Leistungsdruck,früh,6.0,10,sehr hoch (9–10),3.8,Gaming,Schlaf/Regeneration
+Informatik,7,Prüfungen,spät,5.8,9,sehr hoch (9–10),6.3,Social Media,Planung
+Psychologie,4,Prüfungen,spät,7.2,5,mittel (4–6),9.5,Snacks,Sport
+Informatik,7,Leistungsdruck,mitte,6.5,5,mittel (4–6),9.6,Prokrastination,Sport
+Maschinenbau,4,Prüfungen,spät,6.2,6,mittel (4–6),8.2,Social Media,Planung
+BWL,4,Zeitdruck,früh,6.2,6,mittel (4–6),9.0,Rauchen,Meditation
+Maschinenbau,7,Zeitdruck,früh,5.5,7,hoch (7–8),6.8,Social Media,Sport
+Maschinenbau,6,Finanzen,mitte,7.5,4,mittel (4–6),8.5,Gaming,Schlaf/Regeneration
+Maschinenbau,6,Prüfungen,früh,6.7,5,mittel (4–6),8.7,Prokrastination,Schlaf/Regeneration
+Informatik,4,Finanzen,mitte,5.9,5,mittel (4–6),10.0,Prokrastination,Sport
+Medizin,5,Zeitdruck,früh,7.2,4,mittel (4–6),8.5,Snacks,Planung
+BWL,1,Finanzen,mitte,6.5,7,hoch (7–8),6.7,Social Media,Sport
+Informatik,7,Prüfungen,mitte,5.3,8,hoch (7–8),7.1,Rauchen,Planung
+Psychologie,6,Zeitdruck,spät,7.7,3,niedrig (1–3),6.8,Prokrastination,Sport
+BWL,10,Zeitdruck,früh,6.0,8,hoch (7–8),6.9,Rauchen,Schlaf/Regeneration
+Maschinenbau,6,Prüfungen,spät,6.3,7,hoch (7–8),7.2,Snacks,Schlaf/Regeneration
+Maschinenbau,5,Prüfungen,mitte,6.7,6,mittel (4–6),9.8,Rauchen,Schlaf/Regeneration
+BWL,1,Prüfungen,früh,8.0,5,mittel (4–6),10.0,Snacks,Schlaf/Regeneration
+Medizin,2,Zeitdruck,mitte,6.7,8,hoch (7–8),5.8,Gaming,Freunde
+BWL,4,Prüfungen,mitte,5.7,7,hoch (7–8),7.0,Prokrastination,Schlaf/Regeneration
+Psychologie,4,Job,früh,7.4,3,niedrig (1–3),8.0,Prokrastination,Freunde
+BWL,4,Zeitdruck,mitte,6.4,6,mittel (4–6),8.6,Prokrastination,Sport
+Medizin,4,Leistungsdruck,früh,8.3,4,mittel (4–6),8.7,Snacks,Schlaf/Regeneration
+Informatik,8,Job,mitte,6.5,7,hoch (7–8),8.4,Social Media,Sport
+Informatik,2,Prüfungen,mitte,4.8,10,sehr hoch (9–10),3.6,Rauchen,Schlaf/Regeneration
+BWL,4,Finanzen,mitte,7.1,4,mittel (4–6),8.9,Social Media,Planung
+Medizin,2,Leistungsdruck,spät,8.4,5,mittel (4–6),10.0,Rauchen,Freunde
+Medizin,4,Finanzen,früh,8.0,4,mittel (4–6),9.3,Social Media,Planung
+Maschinenbau,7,Zeitdruck,spät,8.2,5,mittel (4–6),9.9,Social Media,Planung
+Medizin,1,Zeitdruck,spät,5.8,10,sehr hoch (9–10),3.8,Rauchen,Sport
+Medizin,4,Prüfungen,spät,7.4,6,mittel (4–6),7.8,Snacks,Sport
+Psychologie,1,Zeitdruck,spät,6.4,8,hoch (7–8),5.8,Snacks,Meditation
+BWL,10,Job,früh,6.7,9,sehr hoch (9–10),5.4,Rauchen,Sport
+Maschinenbau,8,Job,mitte,5.4,9,sehr hoch (9–10),5.1,Gaming,Sport
+Maschinenbau,3,Prüfungen,früh,6.2,7,hoch (7–8),7.6,Snacks,Freunde
+BWL,2,Finanzen,spät,6.3,7,hoch (7–8),8.2,Gaming,Freunde
+Informatik,1,Prüfungen,mitte,7.7,8,hoch (7–8),5.7,Prokrastination,Planung
+Maschinenbau,5,Job,früh,7.4,4,mittel (4–6),8.7,Prokrastination,Schlaf/Regeneration
+BWL,8,Prüfungen,spät,6.8,8,hoch (7–8),6.5,Social Media,Freunde
+Medizin,6,Job,früh,5.2,8,hoch (7–8),6.0,Prokrastination,Sport
+BWL,9,Leistungsdruck,mitte,6.2,9,sehr hoch (9–10),6.1,Rauchen,Schlaf/Regeneration
+Informatik,4,Prüfungen,spät,6.0,6,mittel (4–6),9.3,Social Media,Schlaf/Regeneration
+Maschinenbau,3,Prüfungen,früh,7.6,5,mittel (4–6),10.0,Rauchen,Freunde
+Informatik,5,Leistungsdruck,mitte,7.7,7,hoch (7–8),8.7,Prokrastination,Freunde
+Informatik,3,Prüfungen,spät,7.7,5,mittel (4–6),9.1,Social Media,Planung
+Psychologie,10,Zeitdruck,früh,5.8,9,sehr hoch (9–10),5.2,Prokrastination,Sport
+Medizin,2,Job,mitte,4.2,10,sehr hoch (9–10),4.2,Social Media,Schlaf/Regeneration
+Informatik,5,Finanzen,früh,5.1,7,hoch (7–8),7.1,Social Media,Sport
+BWL,6,Zeitdruck,mitte,8.0,5,mittel (4–6),10.0,Snacks,Freunde
+Maschinenbau,1,Zeitdruck,früh,6.6,6,mittel (4–6),8.1,Social Media,Sport
+Medizin,5,Prüfungen,spät,5.8,8,hoch (7–8),6.8,Social Media,Sport
+Psychologie,5,Job,spät,8.3,2,niedrig (1–3),7.0,Snacks,Meditation
+Informatik,3,Prüfungen,früh,7.9,4,mittel (4–6),9.0,Social Media,Schlaf/Regeneration
+Informatik,2,Prüfungen,früh,6.9,5,mittel (4–6),8.9,Snacks,Freunde
+BWL,1,Prüfungen,mitte,6.7,8,hoch (7–8),5.8,Rauchen,Sport
+Informatik,1,Job,spät,6.8,10,sehr hoch (9–10),4.3,Social Media,Freunde
+Maschinenbau,5,Prüfungen,mitte,6.9,5,mittel (4–6),10.0,Prokrastination,Sport
+Informatik,1,Leistungsdruck,früh,8.3,4,mittel (4–6),7.2,Social Media,Sport
+Psychologie,10,Finanzen,früh,6.9,8,hoch (7–8),7.1,Prokrastination,Schlaf/Regeneration
+Maschinenbau,3,Leistungsdruck,spät,7.5,5,mittel (4–6),10.0,Social Media,Sport
+Psychologie,7,Job,mitte,7.7,5,mittel (4–6),9.5,Rauchen,Planung
+Informatik,7,Leistungsdruck,spät,5.5,8,hoch (7–8),7.0,Social Media,Sport
+Maschinenbau,5,Job,mitte,7.4,4,mittel (4–6),8.4,Snacks,Sport
+Maschinenbau,9,Prüfungen,spät,6.2,9,sehr hoch (9–10),4.8,Social Media,Meditation
+Maschinenbau,2,Leistungsdruck,früh,4.6,10,sehr hoch (9–10),4.2,Social Media,Sport
+Informatik,3,Finanzen,früh,4.9,8,hoch (7–8),7.5,Prokrastination,Planung
+Informatik,3,Finanzen,spät,5.9,6,mittel (4–6),9.8,Snacks,Meditation
+Medizin,2,Leistungsdruck,spät,7.2,7,hoch (7–8),7.8,Rauchen,Sport
+BWL,3,Job,früh,7.0,3,niedrig (1–3),7.9,Social Media,Meditation
+BWL,4,Finanzen,mitte,7.0,5,mittel (4–6),10.0,Social Media,Sport
+Psychologie,8,Zeitdruck,mitte,8.4,3,niedrig (1–3),6.8,Gaming,Schlaf/Regeneration
+Maschinenbau,4,Zeitdruck,mitte,5.6,7,hoch (7–8),8.0,Gaming,Sport
+Medizin,9,Zeitdruck,früh,6.2,9,sehr hoch (9–10),4.8,Rauchen,Freunde
+BWL,8,Zeitdruck,spät,6.9,7,hoch (7–8),7.8,Rauchen,Planung
+Medizin,10,Zeitdruck,früh,5.5,10,sehr hoch (9–10),3.9,Rauchen,Planung
+Informatik,2,Prüfungen,spät,6.9,7,hoch (7–8),7.9,Social Media,Freunde
+Psychologie,10,Prüfungen,früh,5.1,10,sehr hoch (9–10),4.1,Prokrastination,Schlaf/Regeneration
+Psychologie,7,Leistungsdruck,früh,8.0,5,mittel (4–6),8.2,Snacks,Freunde
+Informatik,10,Zeitdruck,mitte,5.7,10,sehr hoch (9–10),4.1,Gaming,Meditation
+Informatik,4,Job,früh,8.5,3,niedrig (1–3),8.0,Prokrastination,Freunde
+BWL,10,Finanzen,mitte,6.4,10,sehr hoch (9–10),4.3,Gaming,Freunde
+Medizin,6,Prüfungen,früh,7.4,5,mittel (4–6),9.9,Gaming,Freunde
+Psychologie,1,Prüfungen,spät,7.0,6,mittel (4–6),9.8,Rauchen,Sport
+Medizin,5,Prüfungen,spät,6.5,7,hoch (7–8),7.8,Gaming,Meditation
+Maschinenbau,2,Job,spät,6.4,8,hoch (7–8),6.7,Rauchen,Freunde
+Psychologie,10,Prüfungen,früh,6.6,10,sehr hoch (9–10),4.6,Gaming,Planung
+Maschinenbau,4,Zeitdruck,früh,7.1,4,mittel (4–6),9.0,Social Media,Sport
+Informatik,3,Job,mitte,6.1,5,mittel (4–6),9.5,Gaming,Freunde
+Informatik,6,Job,mitte,6.5,6,mittel (4–6),7.3,Social Media,Sport
+Maschinenbau,5,Prüfungen,früh,6.2,6,mittel (4–6),8.5,Prokrastination,Schlaf/Regeneration
+Maschinenbau,1,Prüfungen,früh,9.0,3,niedrig (1–3),8.1,Social Media,Planung
+BWL,9,Prüfungen,mitte,6.4,9,sehr hoch (9–10),5.0,Prokrastination,Sport
+Psychologie,9,Prüfungen,früh,8.0,4,mittel (4–6),9.3,Rauchen,Meditation
+Psychologie,8,Prüfungen,mitte,6.5,6,mittel (4–6),8.9,Gaming,Sport
+Medizin,7,Finanzen,früh,6.6,7,hoch (7–8),8.4,Social Media,Meditation
+Psychologie,5,Job,früh,5.6,7,hoch (7–8),7.4,Prokrastination,Freunde
+BWL,6,Zeitdruck,mitte,6.3,4,mittel (4–6),9.1,Snacks,Schlaf/Regeneration
+BWL,6,Finanzen,mitte,6.9,4,mittel (4–6),9.1,Snacks,Meditation
+BWL,2,Prüfungen,früh,8.4,4,mittel (4–6),9.7,Social Media,Sport
+Maschinenbau,1,Leistungsdruck,mitte,7.1,9,sehr hoch (9–10),4.2,Prokrastination,Freunde
+Medizin,3,Finanzen,spät,7.9,5,mittel (4–6),9.7,Prokrastination,Freunde
+Psychologie,5,Leistungsdruck,mitte,7.4,4,mittel (4–6),9.3,Gaming,Sport
+BWL,2,Job,mitte,8.4,5,mittel (4–6),10.0,Social Media,Meditation
+BWL,2,Zeitdruck,spät,6.9,6,mittel (4–6),8.9,Rauchen,Planung
+Maschinenbau,9,Prüfungen,mitte,8.6,7,hoch (7–8),7.4,Social Media,Planung
+Maschinenbau,4,Prüfungen,spät,6.3,6,mittel (4–6),9.3,Social Media,Meditation
+Informatik,6,Zeitdruck,spät,5.9,7,hoch (7–8),8.1,Social Media,Schlaf/Regeneration
+Informatik,6,Job,früh,5.5,5,mittel (4–6),9.8,Snacks,Planung
+Psychologie,8,Zeitdruck,mitte,8.7,3,niedrig (1–3),7.8,Gaming,Sport
+Informatik,8,Leistungsdruck,mitte,7.2,7,hoch (7–8),8.3,Gaming,Schlaf/Regeneration
+Maschinenbau,3,Finanzen,spät,6.5,6,mittel (4–6),9.9,Prokrastination,Freunde
+BWL,9,Prüfungen,mitte,7.6,7,hoch (7–8),8.0,Snacks,Sport
+Informatik,4,Zeitdruck,früh,7.3,3,niedrig (1–3),7.6,Social Media,Planung
+Medizin,9,Finanzen,mitte,8.0,7,hoch (7–8),7.6,Rauchen,Sport
+Informatik,5,Finanzen,früh,5.3,7,hoch (7–8),7.9,Gaming,Freunde
+BWL,2,Zeitdruck,spät,6.7,8,hoch (7–8),6.3,Social Media,Planung
+Informatik,8,Prüfungen,mitte,6.1,6,mittel (4–6),8.9,Rauchen,Schlaf/Regeneration
+Informatik,1,Leistungsdruck,spät,5.1,10,sehr hoch (9–10),3.4,Rauchen,Sport
+Informatik,8,Prüfungen,spät,7.4,7,hoch (7–8),8.4,Gaming,Schlaf/Regeneration
+Informatik,1,Job,mitte,6.7,7,hoch (7–8),6.9,Snacks,Freunde
+Informatik,3,Prüfungen,mitte,7.4,6,mittel (4–6),8.5,Prokrastination,Planung
+Informatik,7,Prüfungen,spät,8.7,5,mittel (4–6),10.0,Gaming,Schlaf/Regeneration
+Psychologie,10,Zeitdruck,spät,6.2,9,sehr hoch (9–10),6.4,Rauchen,Meditation
+Maschinenbau,5,Zeitdruck,spät,6.3,6,mittel (4–6),8.5,Snacks,Schlaf/Regeneration
+BWL,2,Zeitdruck,früh,7.0,5,mittel (4–6),9.6,Gaming,Schlaf/Regeneration
+BWL,3,Zeitdruck,mitte,7.8,5,mittel (4–6),9.7,Snacks,Schlaf/Regeneration
+Psychologie,9,Job,früh,6.1,7,hoch (7–8),8.6,Gaming,Sport
+Medizin,8,Zeitdruck,spät,5.8,9,sehr hoch (9–10),3.5,Social Media,Meditation
+Medizin,2,Zeitdruck,mitte,7.6,6,mittel (4–6),8.2,Rauchen,Freunde
+Informatik,4,Zeitdruck,mitte,7.1,6,mittel (4–6),10.0,Prokrastination,Freunde
+Informatik,3,Prüfungen,früh,4.9,8,hoch (7–8),6.8,Prokrastination,Freunde
+BWL,2,Finanzen,früh,5.8,8,hoch (7–8),5.7,Prokrastination,Schlaf/Regeneration
+BWL,9,Prüfungen,spät,7.9,8,hoch (7–8),6.4,Prokrastination,Schlaf/Regeneration
+Psychologie,7,Finanzen,früh,7.1,5,mittel (4–6),10.0,Gaming,Planung
+BWL,2,Prüfungen,früh,6.3,7,hoch (7–8),8.1,Rauchen,Freunde
+Informatik,7,Job,spät,6.4,6,mittel (4–6),9.9,Snacks,Meditation
+BWL,5,Zeitdruck,spät,6.8,5,mittel (4–6),10.0,Snacks,Schlaf/Regeneration
+Psychologie,1,Leistungsdruck,früh,7.7,6,mittel (4–6),8.5,Prokrastination,Meditation
+Informatik,5,Zeitdruck,früh,5.4,7,hoch (7–8),8.1,Gaming,Meditation
+Maschinenbau,2,Prüfungen,spät,6.1,9,sehr hoch (9–10),4.8,Social Media,Freunde
+Informatik,3,Leistungsdruck,spät,7.0,5,mittel (4–6),9.4,Gaming,Meditation
+Medizin,9,Finanzen,mitte,6.2,8,hoch (7–8),5.3,Social Media,Schlaf/Regeneration
+Informatik,8,Leistungsdruck,früh,7.0,8,hoch (7–8),5.5,Snacks,Sport
+Medizin,2,Zeitdruck,früh,5.6,8,hoch (7–8),5.9,Rauchen,Schlaf/Regeneration
+Medizin,9,Finanzen,früh,6.6,7,hoch (7–8),6.9,Gaming,Schlaf/Regeneration
+Medizin,6,Leistungsdruck,spät,7.4,7,hoch (7–8),7.8,Gaming,Freunde
+Maschinenbau,9,Finanzen,früh,6.9,7,hoch (7–8),6.9,Snacks,Planung
+Maschinenbau,8,Zeitdruck,früh,6.7,7,hoch (7–8),5.7,Social Media,Schlaf/Regeneration
+Maschinenbau,4,Finanzen,spät,6.7,6,mittel (4–6),8.2,Rauchen,Schlaf/Regeneration
+Maschinenbau,6,Finanzen,spät,5.9,6,mittel (4–6),8.5,Gaming,Planung
+Informatik,6,Job,spät,6.5,5,mittel (4–6),9.6,Social Media,Planung
+Psychologie,8,Zeitdruck,mitte,7.8,4,mittel (4–6),9.7,Social Media,Sport
+Psychologie,3,Zeitdruck,mitte,6.8,5,mittel (4–6),9.6,Rauchen,Freunde
+Medizin,4,Leistungsdruck,mitte,5.8,8,hoch (7–8),6.9,Gaming,Schlaf/Regeneration
+Psychologie,3,Zeitdruck,früh,6.5,7,hoch (7–8),7.6,Snacks,Schlaf/Regeneration
+BWL,3,Leistungsdruck,mitte,7.1,5,mittel (4–6),10.0,Social Media,Sport
+Psychologie,2,Zeitdruck,mitte,6.7,4,mittel (4–6),8.3,Social Media,Planung
+BWL,1,Prüfungen,mitte,7.4,7,hoch (7–8),7.6,Rauchen,Meditation
+Informatik,10,Leistungsdruck,spät,6.8,10,sehr hoch (9–10),3.5,Social Media,Freunde
+Psychologie,1,Prüfungen,spät,7.9,7,hoch (7–8),7.7,Social Media,Sport
+BWL,9,Prüfungen,früh,7.8,6,mittel (4–6),8.7,Prokrastination,Freunde
+BWL,1,Finanzen,mitte,7.9,6,mittel (4–6),8.2,Rauchen,Meditation
+BWL,8,Leistungsdruck,früh,5.7,7,hoch (7–8),8.2,Gaming,Schlaf/Regeneration
+BWL,4,Leistungsdruck,mitte,6.0,5,mittel (4–6),10.0,Social Media,Sport
+BWL,6,Prüfungen,früh,6.6,5,mittel (4–6),9.7,Rauchen,Schlaf/Regeneration
+BWL,3,Prüfungen,früh,6.5,6,mittel (4–6),8.9,Snacks,Freunde
+Maschinenbau,5,Job,spät,5.7,5,mittel (4–6),9.9,Snacks,Schlaf/Regeneration
+BWL,5,Prüfungen,mitte,6.4,5,mittel (4–6),9.5,Snacks,Schlaf/Regeneration
+Medizin,6,Prüfungen,spät,6.0,8,hoch (7–8),6.4,Snacks,Meditation
+Medizin,4,Prüfungen,früh,6.0,7,hoch (7–8),7.2,Prokrastination,Freunde
+Psychologie,6,Zeitdruck,früh,6.5,5,mittel (4–6),9.4,Gaming,Planung
+BWL,9,Leistungsdruck,mitte,7.6,6,mittel (4–6),7.8,Snacks,Meditation
+Psychologie,5,Leistungsdruck,früh,7.0,5,mittel (4–6),9.8,Snacks,Sport
+Medizin,4,Finanzen,früh,8.8,2,niedrig (1–3),6.7,Rauchen,Freunde
+Maschinenbau,2,Prüfungen,spät,7.0,9,sehr hoch (9–10),4.8,Prokrastination,Sport
+Maschinenbau,4,Zeitdruck,früh,6.5,4,mittel (4–6),10.0,Gaming,Sport
+Psychologie,2,Zeitdruck,früh,7.0,4,mittel (4–6),9.3,Prokrastination,Freunde
+Psychologie,2,Prüfungen,mitte,7.2,7,hoch (7–8),8.4,Snacks,Sport
+BWL,10,Prüfungen,mitte,6.9,10,sehr hoch (9–10),4.5,Prokrastination,Sport
+Maschinenbau,1,Prüfungen,mitte,8.8,6,mittel (4–6),9.9,Snacks,Planung
+Informatik,5,Prüfungen,mitte,5.9,7,hoch (7–8),7.1,Snacks,Schlaf/Regeneration
+Maschinenbau,9,Finanzen,spät,7.2,8,hoch (7–8),4.9,Social Media,Sport
+Medizin,10,Finanzen,früh,6.4,8,hoch (7–8),6.1,Prokrastination,Planung
+Informatik,2,Prüfungen,mitte,5.4,9,sehr hoch (9–10),5.5,Prokrastination,Meditation
+Psychologie,2,Zeitdruck,mitte,7.7,4,mittel (4–6),8.9,Rauchen,Meditation
+Informatik,4,Leistungsdruck,spät,7.9,3,niedrig (1–3),7.8,Gaming,Sport
+Maschinenbau,6,Leistungsdruck,mitte,5.9,7,hoch (7–8),8.4,Snacks,Planung
+Informatik,10,Leistungsdruck,mitte,6.4,8,hoch (7–8),6.6,Prokrastination,Freunde
+Medizin,3,Zeitdruck,früh,5.1,9,sehr hoch (9–10),5.7,Prokrastination,Sport
+Informatik,2,Leistungsdruck,früh,5.7,7,hoch (7–8),7.0,Social Media,Sport
+Medizin,3,Prüfungen,früh,7.6,6,mittel (4–6),8.1,Rauchen,Sport
+Maschinenbau,9,Zeitdruck,spät,6.1,9,sehr hoch (9–10),6.2,Rauchen,Planung
+Psychologie,1,Prüfungen,früh,6.1,9,sehr hoch (9–10),5.3,Prokrastination,Sport
+Maschinenbau,4,Zeitdruck,spät,7.0,6,mittel (4–6),8.4,Snacks,Meditation
+Maschinenbau,2,Zeitdruck,früh,6.4,8,hoch (7–8),6.0,Social Media,Freunde
+Medizin,2,Prüfungen,spät,6.3,8,hoch (7–8),6.0,Prokrastination,Sport
+BWL,10,Leistungsdruck,spät,7.1,9,sehr hoch (9–10),4.8,Prokrastination,Planung
+Psychologie,1,Prüfungen,früh,6.0,7,hoch (7–8),6.8,Snacks,Sport
+Informatik,4,Prüfungen,früh,5.9,6,mittel (4–6),7.9,Social Media,Sport
+Psychologie,10,Prüfungen,früh,6.6,8,hoch (7–8),6.3,Snacks,Meditation
+Informatik,7,Zeitdruck,spät,7.4,5,mittel (4–6),9.6,Gaming,Schlaf/Regeneration
+Psychologie,1,Prüfungen,früh,8.2,4,mittel (4–6),9.5,Snacks,Freunde
+Psychologie,5,Zeitdruck,mitte,6.2,4,mittel (4–6),9.0,Snacks,Planung
+Psychologie,10,Prüfungen,mitte,7.4,6,mittel (4–6),9.0,Gaming,Sport
+Psychologie,5,Leistungsdruck,spät,6.1,5,mittel (4–6),9.6,Prokrastination,Schlaf/Regeneration
+Maschinenbau,6,Job,mitte,8.3,4,mittel (4–6),8.7,Snacks,Sport
+Maschinenbau,6,Zeitdruck,mitte,5.6,6,mittel (4–6),9.0,Snacks,Freunde
+Psychologie,7,Finanzen,spät,7.9,3,niedrig (1–3),8.0,Social Media,Meditation
+Psychologie,2,Leistungsdruck,früh,6.4,8,hoch (7–8),6.3,Prokrastination,Schlaf/Regeneration
+Medizin,9,Job,spät,8.1,6,mittel (4–6),9.4,Gaming,Planung
+Informatik,10,Finanzen,früh,6.9,8,hoch (7–8),6.4,Prokrastination,Planung
+Informatik,2,Leistungsdruck,mitte,5.9,8,hoch (7–8),6.9,Prokrastination,Meditation
+Informatik,9,Job,spät,5.9,9,sehr hoch (9–10),4.9,Social Media,Sport
+Maschinenbau,9,Leistungsdruck,mitte,7.2,6,mittel (4–6),7.7,Snacks,Sport
+BWL,8,Zeitdruck,mitte,7.5,5,mittel (4–6),10.0,Snacks,Sport
+Maschinenbau,4,Prüfungen,früh,6.7,4,mittel (4–6),9.2,Snacks,Schlaf/Regeneration
+Maschinenbau,5,Prüfungen,mitte,6.8,8,hoch (7–8),6.7,Social Media,Schlaf/Regeneration
+BWL,9,Zeitdruck,mitte,7.2,6,mittel (4–6),9.1,Gaming,Sport
+Medizin,2,Zeitdruck,mitte,6.8,6,mittel (4–6),8.6,Prokrastination,Schlaf/Regeneration
+Maschinenbau,9,Zeitdruck,mitte,5.3,9,sehr hoch (9–10),4.7,Social Media,Schlaf/Regeneration
+BWL,10,Finanzen,früh,5.7,8,hoch (7–8),6.7,Prokrastination,Sport
+BWL,7,Finanzen,früh,6.9,6,mittel (4–6),9.1,Social Media,Freunde
+BWL,4,Leistungsdruck,früh,7.9,6,mittel (4–6),8.5,Social Media,Planung
+Informatik,6,Prüfungen,mitte,8.1,4,mittel (4–6),9.5,Snacks,Schlaf/Regeneration
+Informatik,1,Prüfungen,früh,7.6,5,mittel (4–6),9.5,Gaming,Planung
+Medizin,10,Leistungsdruck,spät,6.5,8,hoch (7–8),6.0,Snacks,Schlaf/Regeneration
+BWL,4,Leistungsdruck,mitte,7.5,4,mittel (4–6),9.8,Social Media,Freunde
+BWL,1,Job,früh,6.4,6,mittel (4–6),9.3,Snacks,Planung
+Maschinenbau,8,Leistungsdruck,mitte,6.4,7,hoch (7–8),7.4,Prokrastination,Schlaf/Regeneration
+Psychologie,7,Leistungsdruck,spät,5.9,7,hoch (7–8),7.8,Snacks,Freunde
+Medizin,7,Prüfungen,früh,5.3,9,sehr hoch (9–10),5.3,Rauchen,Freunde
+Maschinenbau,1,Zeitdruck,früh,7.3,6,mittel (4–6),7.2,Prokrastination,Freunde
+Psychologie,8,Prüfungen,früh,6.8,6,mittel (4–6),8.3,Snacks,Sport
+BWL,7,Finanzen,früh,7.3,4,mittel (4–6),8.8,Gaming,Sport
+Medizin,8,Job,spät,6.8,8,hoch (7–8),6.2,Prokrastination,Meditation
+Maschinenbau,9,Zeitdruck,spät,6.7,8,hoch (7–8),6.5,Social Media,Schlaf/Regeneration
+Medizin,3,Finanzen,früh,7.1,6,mittel (4–6),9.5,Prokrastination,Meditation
+Informatik,3,Prüfungen,spät,6.7,7,hoch (7–8),7.4,Social Media,Meditation
+Medizin,10,Prüfungen,früh,6.6,9,sehr hoch (9–10),4.6,Rauchen,Schlaf/Regeneration
+Psychologie,6,Prüfungen,mitte,6.1,5,mittel (4–6),10.0,Prokrastination,Schlaf/Regeneration
+Informatik,5,Prüfungen,spät,7.0,5,mittel (4–6),9.8,Snacks,Schlaf/Regeneration
+Psychologie,3,Job,mitte,7.5,3,niedrig (1–3),7.5,Gaming,Sport
+Maschinenbau,7,Zeitdruck,früh,6.0,7,hoch (7–8),7.4,Gaming,Planung
+Informatik,8,Leistungsdruck,mitte,6.5,8,hoch (7–8),7.7,Social Media,Meditation
+Psychologie,1,Finanzen,spät,6.5,8,hoch (7–8),5.1,Rauchen,Schlaf/Regeneration
+Maschinenbau,6,Prüfungen,früh,6.2,6,mittel (4–6),8.6,Snacks,Meditation
+BWL,10,Prüfungen,früh,5.4,10,sehr hoch (9–10),4.0,Social Media,Planung
+Psychologie,3,Leistungsdruck,früh,8.1,4,mittel (4–6),8.3,Snacks,Meditation
+Psychologie,3,Prüfungen,mitte,7.9,5,mittel (4–6),10.0,Prokrastination,Sport
+BWL,9,Job,mitte,7.0,7,hoch (7–8),8.1,Social Media,Meditation
+Medizin,1,Prüfungen,spät,8.5,8,hoch (7–8),6.4,Prokrastination,Meditation
+Maschinenbau,4,Finanzen,spät,6.6,6,mittel (4–6),8.6,Social Media,Sport
+Informatik,5,Leistungsdruck,spät,9.0,3,niedrig (1–3),7.5,Social Media,Planung
+Medizin,8,Prüfungen,spät,6.1,8,hoch (7–8),6.3,Snacks,Freunde
+Medizin,2,Prüfungen,früh,6.9,8,hoch (7–8),6.4,Gaming,Sport
+BWL,5,Job,mitte,6.4,6,mittel (4–6),8.7,Rauchen,Meditation
+Maschinenbau,2,Prüfungen,früh,7.2,6,mittel (4–6),9.0,Snacks,Freunde
+Informatik,8,Zeitdruck,früh,7.2,7,hoch (7–8),8.1,Snacks,Freunde
+Medizin,7,Zeitdruck,spät,6.3,6,mittel (4–6),8.1,Snacks,Schlaf/Regeneration
+Maschinenbau,5,Prüfungen,mitte,8.3,4,mittel (4–6),8.2,Rauchen,Planung
+Maschinenbau,4,Leistungsdruck,spät,7.0,6,mittel (4–6),7.8,Gaming,Freunde
+Informatik,2,Leistungsdruck,mitte,7.1,6,mittel (4–6),9.3,Prokrastination,Planung
+Medizin,10,Zeitdruck,mitte,5.4,10,sehr hoch (9–10),4.2,Prokrastination,Sport
+Informatik,7,Leistungsdruck,mitte,6.9,6,mittel (4–6),9.1,Rauchen,Sport
+BWL,4,Prüfungen,früh,6.7,5,mittel (4–6),9.1,Social Media,Meditation
+Informatik,5,Prüfungen,früh,6.1,6,mittel (4–6),9.9,Snacks,Schlaf/Regeneration
+Maschinenbau,8,Finanzen,mitte,5.8,6,mittel (4–6),8.4,Snacks,Sport
+Informatik,8,Job,früh,8.9,3,niedrig (1–3),7.7,Gaming,Schlaf/Regeneration
+Medizin,5,Prüfungen,spät,6.3,8,hoch (7–8),6.9,Rauchen,Meditation
+Maschinenbau,4,Prüfungen,früh,5.5,7,hoch (7–8),7.0,Prokrastination,Schlaf/Regeneration
+Informatik,7,Zeitdruck,früh,5.9,6,mittel (4–6),8.5,Social Media,Freunde
+Informatik,7,Leistungsdruck,spät,6.5,8,hoch (7–8),6.5,Prokrastination,Meditation
+Informatik,6,Prüfungen,früh,7.1,6,mittel (4–6),10.0,Prokrastination,Freunde
+Psychologie,1,Zeitdruck,spät,7.5,7,hoch (7–8),7.8,Social Media,Freunde
+Maschinenbau,5,Leistungsdruck,spät,7.3,5,mittel (4–6),10.0,Social Media,Sport
+BWL,7,Zeitdruck,früh,6.1,6,mittel (4–6),9.5,Social Media,Planung
+Medizin,10,Prüfungen,mitte,6.5,10,sehr hoch (9–10),4.2,Rauchen,Sport
+Informatik,6,Prüfungen,mitte,5.8,6,mittel (4–6),8.2,Rauchen,Freunde
+Maschinenbau,4,Zeitdruck,spät,6.2,5,mittel (4–6),10.0,Prokrastination,Sport
+Medizin,6,Zeitdruck,spät,5.6,7,hoch (7–8),6.7,Social Media,Planung
+Maschinenbau,2,Leistungsdruck,spät,5.8,8,hoch (7–8),7.4,Prokrastination,Freunde
+Maschinenbau,1,Finanzen,mitte,7.9,4,mittel (4–6),8.9,Snacks,Sport
+Maschinenbau,7,Finanzen,früh,7.2,5,mittel (4–6),8.4,Snacks,Freunde
+Informatik,10,Job,mitte,7.2,8,hoch (7–8),6.2,Gaming,Sport
+Informatik,9,Zeitdruck,spät,6.5,10,sehr hoch (9–10),4.4,Social Media,Schlaf/Regeneration
+Informatik,6,Zeitdruck,mitte,7.3,4,mittel (4–6),8.7,Rauchen,Schlaf/Regeneration
+Psychologie,1,Job,mitte,5.5,9,sehr hoch (9–10),5.6,Rauchen,Schlaf/Regeneration
+Maschinenbau,10,Prüfungen,mitte,7.2,9,sehr hoch (9–10),4.7,Social Media,Planung
+Psychologie,5,Leistungsdruck,spät,7.0,5,mittel (4–6),9.2,Snacks,Freunde
+Medizin,3,Leistungsdruck,spät,7.2,7,hoch (7–8),7.6,Social Media,Schlaf/Regeneration
+Informatik,9,Prüfungen,früh,6.8,8,hoch (7–8),6.4,Social Media,Planung
+Maschinenbau,8,Zeitdruck,früh,5.6,8,hoch (7–8),6.2,Rauchen,Freunde
+Informatik,8,Prüfungen,mitte,5.1,10,sehr hoch (9–10),4.7,Prokrastination,Meditation
+BWL,3,Prüfungen,mitte,6.2,6,mittel (4–6),8.3,Prokrastination,Sport
+Maschinenbau,10,Zeitdruck,mitte,6.9,8,hoch (7–8),6.6,Rauchen,Freunde
+Medizin,5,Prüfungen,früh,7.1,5,mittel (4–6),10.0,Snacks,Sport
+Psychologie,6,Leistungsdruck,mitte,5.5,6,mittel (4–6),7.9,Social Media,Planung
+Informatik,8,Job,mitte,5.6,7,hoch (7–8),6.8,Snacks,Planung
+Psychologie,7,Leistungsdruck,mitte,6.0,7,hoch (7–8),7.6,Snacks,Meditation
+Informatik,2,Prüfungen,mitte,6.5,8,hoch (7–8),7.6,Prokrastination,Sport
+Medizin,4,Prüfungen,spät,5.3,8,hoch (7–8),6.7,Rauchen,Sport
+Maschinenbau,4,Prüfungen,mitte,5.5,8,hoch (7–8),5.4,Snacks,Meditation
+Informatik,10,Prüfungen,spät,5.6,10,sehr hoch (9–10),2.1,Social Media,Sport
+Informatik,8,Job,mitte,6.6,6,mittel (4–6),9.2,Social Media,Schlaf/Regeneration
+Informatik,4,Zeitdruck,mitte,5.7,6,mittel (4–6),8.7,Snacks,Meditation
+Medizin,8,Prüfungen,mitte,6.2,9,sehr hoch (9–10),5.9,Rauchen,Planung
+Psychologie,8,Leistungsdruck,früh,7.6,4,mittel (4–6),8.3,Social Media,Sport
+Maschinenbau,4,Zeitdruck,früh,5.6,7,hoch (7–8),7.8,Social Media,Schlaf/Regeneration
+Psychologie,5,Prüfungen,mitte,6.6,5,mittel (4–6),10.0,Snacks,Freunde
+Psychologie,9,Prüfungen,spät,7.5,7,hoch (7–8),7.3,Social Media,Schlaf/Regeneration
+Informatik,6,Finanzen,mitte,6.2,5,mittel (4–6),9.7,Social Media,Sport
+Medizin,2,Leistungsdruck,früh,6.2,8,hoch (7–8),6.4,Rauchen,Sport
+BWL,8,Prüfungen,mitte,7.6,7,hoch (7–8),7.9,Snacks,Schlaf/Regeneration
+Psychologie,6,Job,früh,6.5,5,mittel (4–6),10.0,Rauchen,Freunde
+Maschinenbau,6,Leistungsdruck,spät,7.6,7,hoch (7–8),8.2,Snacks,Schlaf/Regeneration
+Maschinenbau,8,Leistungsdruck,spät,6.9,9,sehr hoch (9–10),4.9,Gaming,Sport
+Medizin,10,Prüfungen,mitte,5.9,10,sehr hoch (9–10),3.2,Rauchen,Planung
+Informatik,4,Prüfungen,mitte,7.2,5,mittel (4–6),10.0,Gaming,Sport
+Psychologie,5,Leistungsdruck,früh,7.1,4,mittel (4–6),8.4,Gaming,Sport
+BWL,2,Prüfungen,mitte,7.9,5,mittel (4–6),9.7,Rauchen,Freunde
+Psychologie,7,Finanzen,spät,6.2,8,hoch (7–8),6.4,Snacks,Meditation
+Informatik,5,Leistungsdruck,spät,6.7,6,mittel (4–6),8.8,Rauchen,Sport
+Informatik,4,Prüfungen,mitte,6.7,6,mittel (4–6),8.6,Social Media,Schlaf/Regeneration
+BWL,7,Leistungsdruck,mitte,7.3,6,mittel (4–6),8.8,Rauchen,Sport
+BWL,5,Job,früh,5.8,7,hoch (7–8),7.6,Snacks,Sport
+BWL,5,Leistungsdruck,früh,7.7,4,mittel (4–6),8.9,Snacks,Planung
+Psychologie,5,Zeitdruck,früh,7.2,4,mittel (4–6),7.4,Rauchen,Planung
+Psychologie,3,Leistungsdruck,mitte,5.7,8,hoch (7–8),7.5,Prokrastination,Meditation
+BWL,2,Zeitdruck,spät,8.0,6,mittel (4–6),8.7,Snacks,Freunde
+BWL,9,Leistungsdruck,mitte,8.5,5,mittel (4–6),10.0,Snacks,Sport
+Informatik,1,Leistungsdruck,früh,7.8,6,mittel (4–6),8.0,Snacks,Freunde
+Psychologie,4,Leistungsdruck,früh,8.2,3,niedrig (1–3),7.3,Rauchen,Planung
+BWL,7,Prüfungen,früh,6.7,6,mittel (4–6),8.4,Snacks,Sport
+Informatik,2,Prüfungen,spät,5.3,9,sehr hoch (9–10),6.1,Social Media,Freunde
+BWL,7,Prüfungen,mitte,5.0,8,hoch (7–8),6.0,Social Media,Sport
+Psychologie,8,Zeitdruck,spät,6.9,6,mittel (4–6),9.3,Rauchen,Planung
+BWL,7,Zeitdruck,spät,6.1,6,mittel (4–6),8.4,Rauchen,Meditation
+Psychologie,4,Finanzen,früh,6.0,5,mittel (4–6),9.7,Rauchen,Sport
+Psychologie,1,Zeitdruck,mitte,7.0,7,hoch (7–8),7.5,Social Media,Freunde
+Maschinenbau,9,Leistungsdruck,spät,7.0,8,hoch (7–8),7.2,Prokrastination,Sport
+Maschinenbau,4,Job,mitte,5.5,7,hoch (7–8),6.5,Snacks,Freunde
+Maschinenbau,9,Prüfungen,früh,6.1,8,hoch (7–8),5.6,Rauchen,Sport
+BWL,2,Leistungsdruck,spät,8.3,5,mittel (4–6),8.8,Social Media,Sport
+Maschinenbau,2,Finanzen,spät,5.9,9,sehr hoch (9–10),4.5,Prokrastination,Schlaf/Regeneration
+Psychologie,8,Zeitdruck,mitte,7.4,6,mittel (4–6),8.3,Social Media,Freunde
+BWL,10,Prüfungen,mitte,6.0,9,sehr hoch (9–10),4.2,Prokrastination,Sport
+Psychologie,9,Leistungsdruck,früh,7.1,7,hoch (7–8),7.2,Gaming,Freunde
+BWL,8,Job,spät,7.6,8,hoch (7–8),5.2,Social Media,Sport
+Psychologie,3,Leistungsdruck,mitte,7.6,4,mittel (4–6),8.2,Social Media,Schlaf/Regeneration
+Maschinenbau,10,Job,früh,7.2,7,hoch (7–8),8.3,Rauchen,Schlaf/Regeneration
+Medizin,7,Job,mitte,5.4,8,hoch (7–8),6.6,Rauchen,Sport
+Medizin,2,Zeitdruck,spät,7.7,7,hoch (7–8),7.7,Rauchen,Freunde
+Psychologie,2,Finanzen,spät,6.2,7,hoch (7–8),7.0,Prokrastination,Schlaf/Regeneration
+Psychologie,9,Zeitdruck,früh,6.8,7,hoch (7–8),6.7,Prokrastination,Meditation
+Maschinenbau,3,Job,früh,7.1,3,niedrig (1–3),6.9,Gaming,Planung
+BWL,8,Prüfungen,spät,7.0,6,mittel (4–6),8.8,Snacks,Planung
+Maschinenbau,2,Zeitdruck,spät,7.2,6,mittel (4–6),9.3,Gaming,Planung
+Psychologie,3,Leistungsdruck,mitte,6.2,6,mittel (4–6),9.3,Snacks,Freunde
+Informatik,3,Prüfungen,mitte,5.6,7,hoch (7–8),8.0,Snacks,Meditation
+Informatik,3,Leistungsdruck,mitte,7.6,5,mittel (4–6),9.6,Rauchen,Planung
+Medizin,7,Zeitdruck,mitte,6.6,7,hoch (7–8),7.6,Gaming,Planung
+Informatik,10,Job,früh,7.4,8,hoch (7–8),6.2,Prokrastination,Planung
+BWL,10,Leistungsdruck,früh,6.4,9,sehr hoch (9–10),5.1,Gaming,Schlaf/Regeneration
+BWL,8,Prüfungen,früh,5.3,9,sehr hoch (9–10),6.4,Social Media,Planung
+Informatik,3,Leistungsdruck,spät,7.6,5,mittel (4–6),8.9,Snacks,Schlaf/Regeneration
+BWL,10,Zeitdruck,früh,6.1,9,sehr hoch (9–10),5.1,Prokrastination,Meditation
+Maschinenbau,6,Finanzen,früh,7.0,5,mittel (4–6),10.0,Snacks,Freunde
+Informatik,6,Finanzen,mitte,6.0,7,hoch (7–8),6.7,Social Media,Freunde
+Maschinenbau,8,Leistungsdruck,früh,8.0,6,mittel (4–6),8.4,Rauchen,Freunde
+Medizin,8,Prüfungen,früh,5.5,10,sehr hoch (9–10),3.7,Rauchen,Planung
+BWL,10,Prüfungen,mitte,6.2,10,sehr hoch (9–10),3.9,Prokrastination,Meditation
+Informatik,6,Finanzen,mitte,6.7,5,mittel (4–6),9.0,Rauchen,Sport
+Psychologie,7,Finanzen,mitte,5.7,8,hoch (7–8),6.8,Gaming,Schlaf/Regeneration
+Informatik,8,Zeitdruck,spät,6.8,7,hoch (7–8),8.0,Snacks,Sport
+BWL,3,Prüfungen,früh,8.3,3,niedrig (1–3),7.9,Rauchen,Sport
+Medizin,4,Zeitdruck,spät,6.1,7,hoch (7–8),7.1,Snacks,Freunde
+Medizin,7,Leistungsdruck,spät,6.7,8,hoch (7–8),6.5,Rauchen,Freunde
+Maschinenbau,1,Prüfungen,spät,4.5,10,sehr hoch (9–10),3.5,Prokrastination,Planung
+BWL,4,Zeitdruck,mitte,6.8,5,mittel (4–6),9.8,Snacks,Sport
+Maschinenbau,8,Job,mitte,6.2,7,hoch (7–8),8.9,Snacks,Meditation
+Maschinenbau,10,Prüfungen,mitte,5.7,9,sehr hoch (9–10),5.3,Social Media,Schlaf/Regeneration
+BWL,6,Leistungsdruck,mitte,7.7,4,mittel (4–6),8.1,Social Media,Freunde
+Maschinenbau,4,Prüfungen,früh,6.5,6,mittel (4–6),8.9,Snacks,Freunde
+Informatik,5,Leistungsdruck,spät,6.5,6,mittel (4–6),8.0,Snacks,Schlaf/Regeneration
+Informatik,7,Leistungsdruck,mitte,6.2,8,hoch (7–8),5.7,Prokrastination,Sport
+Psychologie,6,Leistungsdruck,spät,5.0,7,hoch (7–8),7.0,Rauchen,Sport
+Informatik,1,Prüfungen,mitte,5.9,8,hoch (7–8),6.1,Snacks,Sport
+Informatik,6,Zeitdruck,früh,7.5,1,niedrig (1–3),5.8,Gaming,Schlaf/Regeneration
+Maschinenbau,5,Leistungsdruck,mitte,4.8,8,hoch (7–8),6.7,Prokrastination,Sport
+Medizin,8,Prüfungen,mitte,5.6,9,sehr hoch (9–10),5.5,Prokrastination,Sport
+Psychologie,9,Prüfungen,mitte,6.2,8,hoch (7–8),5.7,Rauchen,Sport
+Maschinenbau,10,Prüfungen,früh,8.0,9,sehr hoch (9–10),4.9,Prokrastination,Sport
+Medizin,7,Job,früh,7.1,6,mittel (4–6),9.0,Prokrastination,Meditation
+Informatik,4,Finanzen,mitte,6.2,6,mittel (4–6),8.4,Snacks,Sport
+Psychologie,5,Finanzen,mitte,8.0,3,niedrig (1–3),7.4,Snacks,Freunde
+BWL,2,Leistungsdruck,spät,6.3,8,hoch (7–8),6.7,Rauchen,Sport
+Informatik,10,Zeitdruck,früh,7.3,8,hoch (7–8),6.2,Social Media,Sport
+Maschinenbau,9,Zeitdruck,früh,5.2,9,sehr hoch (9–10),5.3,Rauchen,Sport
+BWL,9,Zeitdruck,früh,7.5,5,mittel (4–6),10.0,Prokrastination,Meditation
+Psychologie,4,Finanzen,mitte,6.5,5,mittel (4–6),9.9,Social Media,Sport
+Informatik,4,Prüfungen,mitte,5.8,8,hoch (7–8),7.1,Snacks,Planung
+Informatik,9,Leistungsdruck,mitte,6.2,10,sehr hoch (9–10),4.3,Snacks,Sport
+Medizin,6,Leistungsdruck,spät,6.7,7,hoch (7–8),6.7,Prokrastination,Freunde
+Informatik,8,Zeitdruck,früh,6.0,6,mittel (4–6),8.1,Snacks,Sport
+BWL,5,Finanzen,mitte,7.3,3,niedrig (1–3),7.1,Gaming,Schlaf/Regeneration
+BWL,5,Prüfungen,früh,6.2,6,mittel (4–6),8.3,Social Media,Freunde
+Psychologie,7,Job,früh,7.2,3,niedrig (1–3),7.5,Gaming,Sport
+Psychologie,9,Job,mitte,7.0,7,hoch (7–8),8.0,Prokrastination,Sport
+Psychologie,4,Job,früh,6.8,5,mittel (4–6),10.0,Snacks,Freunde
+Informatik,9,Zeitdruck,mitte,6.0,9,sehr hoch (9–10),5.4,Rauchen,Sport
+BWL,3,Prüfungen,mitte,7.0,5,mittel (4–6),9.7,Snacks,Sport
+Medizin,5,Prüfungen,spät,7.0,7,hoch (7–8),6.4,Social Media,Schlaf/Regeneration
+Psychologie,10,Prüfungen,mitte,8.4,7,hoch (7–8),7.6,Gaming,Sport
+Maschinenbau,10,Prüfungen,mitte,7.3,8,hoch (7–8),6.4,Social Media,Freunde
+Maschinenbau,10,Prüfungen,mitte,7.3,10,sehr hoch (9–10),4.1,Snacks,Planung
+Maschinenbau,4,Job,früh,9.0,1,niedrig (1–3),6.5,Social Media,Planung
+Informatik,9,Prüfungen,früh,6.9,8,hoch (7–8),7.1,Prokrastination,Sport
+BWL,10,Prüfungen,mitte,6.9,7,hoch (7–8),8.1,Snacks,Meditation
+Psychologie,10,Leistungsdruck,spät,7.1,10,sehr hoch (9–10),3.4,Snacks,Planung
+BWL,1,Finanzen,früh,6.1,9,sehr hoch (9–10),4.9,Gaming,Sport
+Medizin,8,Leistungsdruck,mitte,5.9,9,sehr hoch (9–10),5.1,Gaming,Freunde
+Psychologie,10,Finanzen,spät,6.1,10,sehr hoch (9–10),3.5,Snacks,Planung
+Maschinenbau,8,Leistungsdruck,spät,7.1,8,hoch (7–8),6.7,Prokrastination,Meditation
+Medizin,3,Finanzen,mitte,6.5,6,mittel (4–6),9.0,Social Media,Sport
+Psychologie,8,Zeitdruck,mitte,6.8,7,hoch (7–8),6.9,Rauchen,Sport
+Medizin,2,Finanzen,mitte,7.7,5,mittel (4–6),10.0,Prokrastination,Meditation
+Psychologie,5,Zeitdruck,spät,7.6,4,mittel (4–6),8.9,Prokrastination,Meditation
+Medizin,7,Zeitdruck,früh,6.2,8,hoch (7–8),5.4,Social Media,Schlaf/Regeneration
+BWL,5,Zeitdruck,spät,6.2,7,hoch (7–8),7.6,Prokrastination,Sport
+Psychologie,7,Prüfungen,früh,7.7,4,mittel (4–6),9.0,Gaming,Freunde
+Psychologie,3,Leistungsdruck,spät,7.6,4,mittel (4–6),9.4,Gaming,Sport
+Informatik,7,Prüfungen,früh,5.1,8,hoch (7–8),6.2,Prokrastination,Schlaf/Regeneration
+BWL,7,Prüfungen,früh,6.4,7,hoch (7–8),8.1,Prokrastination,Planung
+Medizin,7,Prüfungen,früh,6.5,6,mittel (4–6),8.9,Rauchen,Sport
+Psychologie,3,Leistungsdruck,mitte,7.6,5,mittel (4–6),9.2,Rauchen,Sport
+Informatik,4,Zeitdruck,früh,7.5,4,mittel (4–6),8.0,Social Media,Sport
+BWL,3,Finanzen,früh,7.1,4,mittel (4–6),9.5,Social Media,Freunde
+Informatik,5,Leistungsdruck,mitte,7.2,6,mittel (4–6),9.5,Snacks,Schlaf/Regeneration
+Informatik,6,Prüfungen,mitte,6.7,6,mittel (4–6),9.0,Rauchen,Planung
+Medizin,4,Leistungsdruck,spät,6.0,7,hoch (7–8),8.5,Rauchen,Freunde
+Psychologie,5,Prüfungen,spät,6.6,5,mittel (4–6),10.0,Social Media,Planung
+BWL,3,Prüfungen,mitte,6.9,7,hoch (7–8),8.0,Gaming,Planung
+Psychologie,3,Finanzen,früh,6.9,4,mittel (4–6),8.3,Social Media,Planung
+Informatik,7,Job,früh,4.8,9,sehr hoch (9–10),6.2,Rauchen,Schlaf/Regeneration
+BWL,9,Prüfungen,spät,6.2,9,sehr hoch (9–10),5.5,Prokrastination,Planung
+Maschinenbau,3,Finanzen,früh,6.9,4,mittel (4–6),8.6,Prokrastination,Freunde
+Psychologie,9,Prüfungen,mitte,6.3,8,hoch (7–8),6.0,Prokrastination,Meditation
+Medizin,6,Finanzen,spät,6.2,8,hoch (7–8),6.6,Gaming,Schlaf/Regeneration
+Psychologie,2,Finanzen,spät,7.4,6,mittel (4–6),7.8,Snacks,Schlaf/Regeneration
+Psychologie,4,Finanzen,mitte,5.9,5,mittel (4–6),10.0,Social Media,Freunde
+Maschinenbau,1,Finanzen,mitte,5.5,9,sehr hoch (9–10),4.6,Prokrastination,Sport
+Medizin,1,Prüfungen,mitte,6.4,9,sehr hoch (9–10),5.4,Snacks,Freunde
+Maschinenbau,4,Finanzen,spät,7.5,8,hoch (7–8),6.1,Snacks,Sport
+Medizin,5,Finanzen,früh,8.0,4,mittel (4–6),8.6,Gaming,Meditation
+Maschinenbau,8,Finanzen,früh,7.2,5,mittel (4–6),9.5,Snacks,Freunde
+Medizin,2,Prüfungen,mitte,5.4,10,sehr hoch (9–10),3.9,Snacks,Schlaf/Regeneration
+Informatik,9,Zeitdruck,früh,6.2,6,mittel (4–6),9.9,Social Media,Sport
+Maschinenbau,3,Zeitdruck,mitte,7.1,5,mittel (4–6),10.0,Social Media,Freunde
+Psychologie,2,Prüfungen,mitte,7.1,8,hoch (7–8),6.6,Prokrastination,Schlaf/Regeneration
+Psychologie,7,Prüfungen,spät,7.2,6,mittel (4–6),8.8,Gaming,Schlaf/Regeneration
+Maschinenbau,8,Zeitdruck,spät,5.7,7,hoch (7–8),8.1,Social Media,Planung
+Medizin,7,Leistungsdruck,mitte,6.4,7,hoch (7–8),8.3,Social Media,Schlaf/Regeneration
+Medizin,2,Prüfungen,spät,7.1,9,sehr hoch (9–10),4.7,Social Media,Meditation
+BWL,2,Leistungsdruck,früh,7.7,5,mittel (4–6),10.0,Prokrastination,Sport
+Maschinenbau,4,Finanzen,mitte,6.0,5,mittel (4–6),8.9,Snacks,Schlaf/Regeneration
+Maschinenbau,5,Leistungsdruck,früh,6.4,5,mittel (4–6),10.0,Social Media,Freunde
+BWL,10,Zeitdruck,spät,4.0,10,sehr hoch (9–10),5.2,Snacks,Sport
+Informatik,3,Zeitdruck,spät,6.2,7,hoch (7–8),7.6,Gaming,Schlaf/Regeneration
+Informatik,2,Finanzen,spät,6.4,8,hoch (7–8),5.1,Gaming,Planung
+Maschinenbau,10,Job,spät,5.5,10,sehr hoch (9–10),4.4,Gaming,Freunde
+Psychologie,2,Zeitdruck,spät,7.1,6,mittel (4–6),8.3,Snacks,Planung
+Medizin,1,Zeitdruck,früh,6.7,6,mittel (4–6),8.4,Rauchen,Freunde
+Psychologie,5,Finanzen,spät,4.8,7,hoch (7–8),8.0,Prokrastination,Sport
+Medizin,5,Leistungsdruck,mitte,6.7,7,hoch (7–8),7.8,Social Media,Schlaf/Regeneration
+BWL,7,Prüfungen,mitte,5.8,6,mittel (4–6),8.5,Gaming,Freunde
+Maschinenbau,9,Zeitdruck,mitte,6.9,7,hoch (7–8),7.2,Social Media,Freunde
+Informatik,10,Zeitdruck,früh,5.2,10,sehr hoch (9–10),4.1,Rauchen,Planung
+Psychologie,3,Job,früh,7.0,3,niedrig (1–3),7.4,Social Media,Schlaf/Regeneration
+Maschinenbau,10,Zeitdruck,früh,6.2,8,hoch (7–8),5.7,Rauchen,Schlaf/Regeneration
+Medizin,7,Zeitdruck,früh,6.7,6,mittel (4–6),8.6,Snacks,Sport
+Maschinenbau,1,Job,mitte,7.1,7,hoch (7–8),7.8,Prokrastination,Freunde
+Informatik,10,Zeitdruck,spät,6.1,10,sehr hoch (9–10),3.9,Rauchen,Freunde
+BWL,2,Prüfungen,mitte,5.6,9,sehr hoch (9–10),4.4,Social Media,Schlaf/Regeneration
+Informatik,6,Prüfungen,mitte,5.3,8,hoch (7–8),7.0,Rauchen,Sport
+Informatik,8,Prüfungen,mitte,6.0,8,hoch (7–8),4.8,Social Media,Schlaf/Regeneration
+Maschinenbau,3,Prüfungen,mitte,6.8,5,mittel (4–6),9.7,Snacks,Sport
+Maschinenbau,3,Zeitdruck,früh,6.3,5,mittel (4–6),9.6,Prokrastination,Meditation
+Maschinenbau,5,Leistungsdruck,spät,7.3,6,mittel (4–6),8.9,Social Media,Planung
+Medizin,9,Leistungsdruck,früh,6.0,9,sehr hoch (9–10),5.5,Rauchen,Sport
+Maschinenbau,3,Prüfungen,spät,6.0,6,mittel (4–6),9.5,Social Media,Planung
+Maschinenbau,7,Finanzen,spät,6.3,6,mittel (4–6),8.4,Social Media,Freunde
+Informatik,5,Prüfungen,mitte,6.9,7,hoch (7–8),8.0,Snacks,Sport
+BWL,2,Job,spät,7.2,6,mittel (4–6),8.9,Prokrastination,Schlaf/Regeneration
+Psychologie,8,Prüfungen,früh,8.3,3,niedrig (1–3),6.6,Rauchen,Schlaf/Regeneration
+Medizin,9,Finanzen,spät,5.7,10,sehr hoch (9–10),5.1,Prokrastination,Sport
+Informatik,6,Zeitdruck,spät,6.5,6,mittel (4–6),7.9,Snacks,Planung
+Psychologie,2,Finanzen,spät,7.4,6,mittel (4–6),9.1,Gaming,Planung
+Maschinenbau,2,Zeitdruck,mitte,6.9,7,hoch (7–8),7.8,Social Media,Sport
+Informatik,5,Leistungsdruck,spät,6.2,6,mittel (4–6),9.0,Rauchen,Sport
+BWL,6,Prüfungen,spät,5.3,8,hoch (7–8),6.1,Social Media,Freunde
+Medizin,6,Job,mitte,6.0,8,hoch (7–8),6.9,Prokrastination,Schlaf/Regeneration
+Maschinenbau,3,Zeitdruck,spät,5.9,8,hoch (7–8),5.5,Gaming,Planung
+BWL,6,Leistungsdruck,spät,5.1,9,sehr hoch (9–10),5.2,Gaming,Planung
+Medizin,3,Leistungsdruck,mitte,5.9,8,hoch (7–8),6.1,Prokrastination,Freunde
+BWL,7,Job,spät,5.7,6,mittel (4–6),8.4,Snacks,Meditation
+Medizin,8,Prüfungen,mitte,6.9,9,sehr hoch (9–10),5.5,Rauchen,Freunde
+BWL,7,Prüfungen,mitte,7.2,5,mittel (4–6),10.0,Rauchen,Planung
+Psychologie,1,Prüfungen,früh,6.2,8,hoch (7–8),6.2,Gaming,Schlaf/Regeneration
+BWL,10,Prüfungen,früh,6.2,8,hoch (7–8),6.9,Prokrastination,Schlaf/Regeneration
+BWL,1,Finanzen,spät,5.3,8,hoch (7–8),6.4,Social Media,Schlaf/Regeneration
+Medizin,10,Job,mitte,5.8,10,sehr hoch (9–10),3.5,Rauchen,Schlaf/Regeneration
+Informatik,1,Job,mitte,7.3,6,mittel (4–6),8.6,Gaming,Sport
+Informatik,6,Zeitdruck,früh,7.3,2,niedrig (1–3),6.2,Prokrastination,Schlaf/Regeneration
+BWL,2,Finanzen,mitte,6.3,7,hoch (7–8),7.2,Social Media,Schlaf/Regeneration
+Maschinenbau,1,Leistungsdruck,spät,7.9,8,hoch (7–8),6.7,Rauchen,Sport
+Maschinenbau,7,Job,spät,5.2,10,sehr hoch (9–10),4.1,Rauchen,Sport
+Medizin,8,Prüfungen,früh,5.2,10,sehr hoch (9–10),3.0,Rauchen,Meditation
+BWL,2,Zeitdruck,mitte,7.6,5,mittel (4–6),9.0,Social Media,Planung
+BWL,10,Leistungsdruck,mitte,8.0,8,hoch (7–8),6.7,Rauchen,Freunde
+Informatik,4,Prüfungen,mitte,7.2,6,mittel (4–6),8.3,Gaming,Planung
+Psychologie,4,Zeitdruck,mitte,6.8,4,mittel (4–6),9.0,Gaming,Freunde
+Medizin,3,Job,mitte,4.7,9,sehr hoch (9–10),5.7,Gaming,Meditation
+Maschinenbau,5,Job,mitte,4.9,8,hoch (7–8),5.6,Gaming,Sport
+Psychologie,2,Job,mitte,7.1,6,mittel (4–6),8.0,Snacks,Freunde
+BWL,5,Leistungsdruck,mitte,6.4,5,mittel (4–6),10.0,Gaming,Sport
+Medizin,3,Prüfungen,mitte,5.6,8,hoch (7–8),6.6,Prokrastination,Planung
+Psychologie,1,Zeitdruck,spät,7.1,8,hoch (7–8),6.1,Snacks,Meditation
+Informatik,4,Finanzen,spät,6.8,7,hoch (7–8),7.0,Snacks,Schlaf/Regeneration
+BWL,7,Finanzen,früh,7.5,5,mittel (4–6),9.7,Snacks,Planung
+Informatik,8,Zeitdruck,spät,6.6,9,sehr hoch (9–10),4.5,Prokrastination,Schlaf/Regeneration
+Informatik,4,Finanzen,spät,7.8,4,mittel (4–6),9.3,Social Media,Sport
+Informatik,4,Zeitdruck,früh,6.7,6,mittel (4–6),8.3,Snacks,Sport
+Psychologie,8,Leistungsdruck,mitte,6.5,7,hoch (7–8),8.3,Social Media,Sport
+Psychologie,7,Zeitdruck,früh,7.6,7,hoch (7–8),7.4,Gaming,Sport
+BWL,9,Zeitdruck,spät,5.6,9,sehr hoch (9–10),4.6,Social Media,Planung
+BWL,10,Prüfungen,früh,9.0,5,mittel (4–6),9.7,Snacks,Planung
+Medizin,9,Prüfungen,mitte,6.6,10,sehr hoch (9–10),2.4,Gaming,Schlaf/Regeneration
+Maschinenbau,10,Leistungsdruck,früh,6.8,9,sehr hoch (9–10),5.1,Snacks,Meditation
+Psychologie,5,Zeitdruck,mitte,7.3,6,mittel (4–6),8.7,Gaming,Sport
+BWL,4,Prüfungen,spät,8.5,3,niedrig (1–3),8.1,Gaming,Sport
+Medizin,4,Leistungsdruck,mitte,7.3,6,mittel (4–6),7.7,Prokrastination,Meditation
+BWL,3,Finanzen,spät,5.4,9,sehr hoch (9–10),5.9,Social Media,Freunde
+BWL,8,Prüfungen,spät,7.8,7,hoch (7–8),8.1,Prokrastination,Schlaf/Regeneration
+Medizin,8,Prüfungen,spät,6.0,8,hoch (7–8),7.2,Prokrastination,Sport
+Psychologie,9,Prüfungen,früh,6.7,9,sehr hoch (9–10),5.2,Prokrastination,Meditation
+Maschinenbau,2,Finanzen,spät,5.7,10,sehr hoch (9–10),4.6,Social Media,Freunde
+Psychologie,5,Prüfungen,früh,7.3,5,mittel (4–6),9.1,Snacks,Schlaf/Regeneration
+Maschinenbau,3,Prüfungen,mitte,6.2,7,hoch (7–8),8.0,Gaming,Sport
+BWL,9,Prüfungen,spät,6.6,9,sehr hoch (9–10),4.7,Social Media,Sport
+BWL,3,Finanzen,mitte,6.6,5,mittel (4–6),9.0,Social Media,Planung
+BWL,2,Prüfungen,mitte,8.7,5,mittel (4–6),9.3,Prokrastination,Freunde
+Informatik,6,Leistungsdruck,mitte,8.4,3,niedrig (1–3),7.6,Gaming,Planung
+Medizin,9,Prüfungen,spät,6.3,9,sehr hoch (9–10),4.7,Snacks,Schlaf/Regeneration
+BWL,10,Finanzen,spät,6.5,8,hoch (7–8),6.6,Gaming,Planung
+Psychologie,1,Zeitdruck,mitte,6.7,6,mittel (4–6),7.7,Snacks,Freunde
+Maschinenbau,4,Zeitdruck,spät,7.8,5,mittel (4–6),8.7,Gaming,Schlaf/Regeneration
+Maschinenbau,2,Prüfungen,früh,6.6,7,hoch (7–8),8.4,Snacks,Freunde
+BWL,4,Leistungsdruck,früh,6.4,5,mittel (4–6),10.0,Snacks,Schlaf/Regeneration
+Psychologie,6,Leistungsdruck,mitte,7.6,4,mittel (4–6),8.2,Prokrastination,Schlaf/Regeneration
+Medizin,3,Prüfungen,spät,6.1,7,hoch (7–8),7.6,Social Media,Planung
+Maschinenbau,1,Prüfungen,früh,6.9,9,sehr hoch (9–10),5.8,Prokrastination,Schlaf/Regeneration
+Maschinenbau,6,Job,früh,5.2,7,hoch (7–8),7.9,Rauchen,Freunde
+Medizin,1,Finanzen,früh,7.4,6,mittel (4–6),8.9,Rauchen,Planung
+Maschinenbau,3,Prüfungen,spät,8.6,5,mittel (4–6),10.0,Gaming,Schlaf/Regeneration
+Informatik,1,Prüfungen,früh,7.5,5,mittel (4–6),9.6,Snacks,Schlaf/Regeneration
+Psychologie,1,Finanzen,mitte,8.4,4,mittel (4–6),8.8,Gaming,Planung
+Informatik,5,Leistungsdruck,spät,5.9,8,hoch (7–8),6.4,Social Media,Schlaf/Regeneration
+Maschinenbau,9,Finanzen,früh,6.7,6,mittel (4–6),8.6,Snacks,Meditation
+Medizin,8,Job,mitte,5.5,10,sehr hoch (9–10),3.8,Prokrastination,Schlaf/Regeneration
+Psychologie,1,Zeitdruck,mitte,6.8,8,hoch (7–8),6.4,Prokrastination,Schlaf/Regeneration
+BWL,1,Prüfungen,spät,7.7,7,hoch (7–8),7.6,Snacks,Planung
+Informatik,4,Zeitdruck,mitte,6.8,5,mittel (4–6),9.4,Gaming,Sport
+Medizin,7,Zeitdruck,mitte,5.1,10,sehr hoch (9–10),4.5,Snacks,Planung
+Informatik,8,Prüfungen,früh,5.3,9,sehr hoch (9–10),4.6,Gaming,Planung
+Informatik,9,Prüfungen,spät,5.2,10,sehr hoch (9–10),3.9,Social Media,Schlaf/Regeneration
+BWL,4,Zeitdruck,spät,7.3,4,mittel (4–6),8.6,Prokrastination,Meditation
+Informatik,2,Finanzen,früh,8.7,3,niedrig (1–3),7.8,Rauchen,Meditation
+Psychologie,1,Prüfungen,mitte,8.3,5,mittel (4–6),8.7,Prokrastination,Freunde
+Psychologie,2,Zeitdruck,spät,5.3,9,sehr hoch (9–10),5.7,Social Media,Schlaf/Regeneration
+BWL,1,Finanzen,früh,8.3,6,mittel (4–6),8.4,Snacks,Schlaf/Regeneration
+Informatik,9,Finanzen,früh,7.3,6,mittel (4–6),9.5,Rauchen,Meditation
+Informatik,3,Leistungsdruck,mitte,5.4,7,hoch (7–8),7.3,Rauchen,Planung
+BWL,9,Leistungsdruck,früh,6.2,7,hoch (7–8),7.6,Snacks,Planung
+Informatik,6,Finanzen,früh,7.6,4,mittel (4–6),9.9,Prokrastination,Planung
+Maschinenbau,6,Prüfungen,mitte,7.1,7,hoch (7–8),7.4,Snacks,Meditation
+Informatik,5,Zeitdruck,früh,5.5,7,hoch (7–8),8.3,Snacks,Sport
+BWL,9,Finanzen,mitte,7.1,7,hoch (7–8),7.6,Rauchen,Planung
+BWL,1,Prüfungen,spät,5.1,10,sehr hoch (9–10),4.2,Rauchen,Sport
+BWL,1,Prüfungen,mitte,6.8,7,hoch (7–8),7.6,Prokrastination,Schlaf/Regeneration
+Informatik,5,Prüfungen,früh,7.7,4,mittel (4–6),9.3,Social Media,Planung
+Informatik,4,Zeitdruck,spät,6.7,5,mittel (4–6),9.6,Snacks,Schlaf/Regeneration
+Medizin,6,Zeitdruck,früh,6.0,8,hoch (7–8),5.8,Social Media,Schlaf/Regeneration
+Informatik,8,Prüfungen,spät,7.3,5,mittel (4–6),9.6,Social Media,Freunde
+Psychologie,6,Leistungsdruck,mitte,7.6,5,mittel (4–6),10.0,Prokrastination,Meditation
+Psychologie,3,Job,spät,8.1,3,niedrig (1–3),7.5,Prokrastination,Planung
+BWL,4,Prüfungen,früh,7.6,4,mittel (4–6),9.2,Snacks,Freunde
+BWL,8,Job,früh,7.6,6,mittel (4–6),9.6,Snacks,Schlaf/Regeneration
+Maschinenbau,3,Prüfungen,mitte,7.5,5,mittel (4–6),9.4,Snacks,Meditation
+Medizin,6,Job,früh,6.7,5,mittel (4–6),9.6,Snacks,Sport
+BWL,6,Job,früh,6.8,4,mittel (4–6),7.9,Snacks,Schlaf/Regeneration
+BWL,8,Prüfungen,spät,6.4,8,hoch (7–8),7.6,Social Media,Schlaf/Regeneration
+BWL,8,Leistungsdruck,spät,5.5,9,sehr hoch (9–10),5.4,Prokrastination,Sport
+Psychologie,5,Job,früh,6.0,3,niedrig (1–3),7.9,Social Media,Planung
+Maschinenbau,4,Job,spät,6.5,5,mittel (4–6),9.2,Social Media,Sport
+BWL,4,Job,spät,7.0,6,mittel (4–6),8.8,Social Media,Planung
+BWL,5,Finanzen,spät,8.1,4,mittel (4–6),9.1,Snacks,Sport
+Medizin,3,Prüfungen,mitte,6.6,7,hoch (7–8),7.4,Snacks,Sport
+Informatik,7,Leistungsdruck,mitte,7.4,5,mittel (4–6),10.0,Rauchen,Freunde
+Psychologie,3,Finanzen,mitte,7.9,3,niedrig (1–3),9.0,Rauchen,Planung
+Maschinenbau,7,Finanzen,mitte,6.4,8,hoch (7–8),5.8,Rauchen,Freunde
+Informatik,8,Zeitdruck,spät,7.0,7,hoch (7–8),7.0,Social Media,Schlaf/Regeneration
+Informatik,10,Finanzen,früh,6.1,9,sehr hoch (9–10),4.7,Rauchen,Sport
+Informatik,2,Prüfungen,früh,8.0,6,mittel (4–6),9.8,Snacks,Planung
+Medizin,8,Leistungsdruck,früh,6.9,6,mittel (4–6),9.4,Rauchen,Planung
+Informatik,1,Prüfungen,spät,5.8,9,sehr hoch (9–10),5.1,Social Media,Sport
+Informatik,4,Leistungsdruck,mitte,6.9,5,mittel (4–6),10.0,Social Media,Freunde
+Informatik,2,Leistungsdruck,mitte,8.3,5,mittel (4–6),9.5,Rauchen,Planung
+Informatik,2,Zeitdruck,spät,6.7,7,hoch (7–8),8.1,Social Media,Meditation
+Psychologie,2,Zeitdruck,spät,7.4,8,hoch (7–8),6.2,Gaming,Schlaf/Regeneration
+BWL,1,Prüfungen,früh,7.5,7,hoch (7–8),7.4,Prokrastination,Planung
+Psychologie,9,Job,spät,5.6,7,hoch (7–8),8.0,Social Media,Sport
+Psychologie,1,Leistungsdruck,spät,7.5,7,hoch (7–8),7.5,Social Media,Freunde
+Medizin,4,Zeitdruck,früh,5.3,8,hoch (7–8),6.3,Rauchen,Schlaf/Regeneration
+Informatik,7,Prüfungen,spät,6.0,8,hoch (7–8),6.4,Rauchen,Sport
+Medizin,10,Prüfungen,mitte,7.2,10,sehr hoch (9–10),4.5,Rauchen,Sport
+Psychologie,9,Zeitdruck,mitte,6.9,7,hoch (7–8),8.6,Gaming,Planung
+Informatik,2,Job,mitte,6.6,6,mittel (4–6),9.2,Gaming,Freunde
+Maschinenbau,10,Leistungsdruck,früh,6.8,9,sehr hoch (9–10),5.7,Prokrastination,Freunde
+Medizin,7,Prüfungen,früh,6.3,7,hoch (7–8),7.5,Prokrastination,Meditation
+BWL,2,Leistungsdruck,früh,7.0,5,mittel (4–6),9.6,Social Media,Freunde
+Medizin,5,Zeitdruck,früh,7.1,8,hoch (7–8),6.8,Rauchen,Meditation
+Psychologie,10,Leistungsdruck,mitte,5.9,9,sehr hoch (9–10),5.3,Rauchen,Schlaf/Regeneration
+Psychologie,4,Prüfungen,mitte,6.9,5,mittel (4–6),9.1,Prokrastination,Planung
+Medizin,2,Finanzen,früh,6.4,6,mittel (4–6),8.6,Prokrastination,Sport
+BWL,9,Job,mitte,5.1,10,sehr hoch (9–10),4.0,Prokrastination,Sport
+Maschinenbau,10,Prüfungen,mitte,5.6,10,sehr hoch (9–10),3.7,Social Media,Schlaf/Regeneration
+BWL,10,Finanzen,mitte,7.9,7,hoch (7–8),8.5,Gaming,Sport
+Maschinenbau,10,Job,spät,6.8,10,sehr hoch (9–10),4.3,Prokrastination,Freunde
+Psychologie,9,Prüfungen,mitte,5.4,10,sehr hoch (9–10),4.8,Prokrastination,Freunde
+Informatik,5,Prüfungen,spät,5.3,9,sehr hoch (9–10),5.4,Prokrastination,Schlaf/Regeneration
+BWL,2,Finanzen,früh,6.8,4,mittel (4–6),8.8,Snacks,Meditation
+BWL,7,Zeitdruck,spät,8.0,6,mittel (4–6),8.2,Gaming,Schlaf/Regeneration
+Informatik,3,Prüfungen,spät,6.6,6,mittel (4–6),8.8,Social Media,Sport
+Informatik,5,Zeitdruck,spät,7.8,6,mittel (4–6),8.8,Social Media,Schlaf/Regeneration
+BWL,7,Leistungsdruck,mitte,7.0,7,hoch (7–8),6.8,Social Media,Sport
+Informatik,10,Prüfungen,mitte,6.8,10,sehr hoch (9–10),3.7,Prokrastination,Schlaf/Regeneration
+Informatik,3,Zeitdruck,mitte,5.6,6,mittel (4–6),8.6,Snacks,Sport
+Maschinenbau,3,Leistungsdruck,mitte,7.7,5,mittel (4–6),10.0,Rauchen,Sport
+Maschinenbau,8,Zeitdruck,spät,6.2,7,hoch (7–8),7.9,Snacks,Sport
